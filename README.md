@@ -1,19 +1,20 @@
 # Hello World fact bot
 
-A simple project that states "Hello World" and gives you an array of fun facts
+A simple project that states "Hello World" and gives you an array of facts
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
 [x] Create a display mechanism stating "Hello World" as a default message
-[ ] Create an object handling an array of facts
-[ ] Turn the array into a series of randomized inputs for the message displayed
+[x] Create an object handling an array of facts
+[x] Turn the array into a series of randomized inputs for the message displayed
 
 Instructions for using the software:
 
 1. Press run
 2. Enter any single character besides q to get a new fact
+3. Press q to end the program
 
 ## Development Environment
 
