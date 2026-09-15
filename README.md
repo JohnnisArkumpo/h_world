@@ -6,9 +6,9 @@ A simple project that states "Hello World" and gives you an array of fun facts
 
 Steps to build and/or run the software:
 
-1. Create a display mechanism stating "Hello World" as a default message
-2. Create an object handling an array of facts
-3. Turn the array into a series of randomized inputs for the message displayed
+[x] Create a display mechanism stating "Hello World" as a default message
+[ ] Create an object handling an array of facts
+[ ] Turn the array into a series of randomized inputs for the message displayed
 
 Instructions for using the software:
 
@@ -26,6 +26,7 @@ To recreate the development environment, you need the following software and/or 
 I found this website useful in developing this software:
 
 * [W3 schools](https://www.w3schools.com/)
+* [Stack Overflow](https://stackoverflow.com/questions/2084508/clear-the-terminal-in-python)
 
 ## Future Work
 
